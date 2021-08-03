@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_archive", "_archive", "{AE25150F-35EA-4CA9-B967-5C3BE1866A72}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\Kelly\about.html = ..\..\..\Desktop\Kelly\about.html
+		..\..\..\Desktop\Kelly\contact.html = ..\..\..\Desktop\Kelly\contact.html
+		..\..\..\Desktop\Kelly\index.html = ..\..\..\Desktop\Kelly\index.html
+		..\..\..\Desktop\Kelly\assets\js\main.js = ..\..\..\Desktop\Kelly\assets\js\main.js
+		..\..\..\Desktop\Kelly\assets\vendor\waypoints\noframework.waypoints.js = ..\..\..\Desktop\Kelly\assets\vendor\waypoints\noframework.waypoints.js
+		..\..\..\Desktop\Kelly\portfolio-details.html = ..\..\..\Desktop\Kelly\portfolio-details.html
+		..\..\..\Desktop\Kelly\portfolio.html = ..\..\..\Desktop\Kelly\portfolio.html
+		..\..\..\Desktop\Kelly\resume.html = ..\..\..\Desktop\Kelly\resume.html
+		..\..\..\Desktop\Kelly\services.html = ..\..\..\Desktop\Kelly\services.html
+		..\..\..\Desktop\Kelly\assets\css\style.css = ..\..\..\Desktop\Kelly\assets\css\style.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49728164-AE48-40EE-A640-2CFA491AD2EF}
+	EndGlobalSection
+EndGlobal
